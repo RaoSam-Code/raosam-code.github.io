@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e8/57/46/e8574620f4f9e1591f42202685fa6926.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Cyberpunk City Header" />
+  <img src="https://media.giphy.com/media/Ky5F6i2eKjkq6lXyBq/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Cyberpunk City Header" />
   
   <h1 style="font-size: 40px;">INITIALIZING SYSTEM...</h1>
   
@@ -48,7 +48,7 @@ Currently unlocking new skill trees in **Cyber Security** and **Artificial Intel
 <!-- Additional Badges for specific tech -->
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
 
 </div>
 
@@ -57,14 +57,16 @@ Currently unlocking new skill trees in **Cyber Security** and **Artificial Intel
 ### 📊 BATTLE STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaoSam-Code&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f0f12" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoSam-Code&layout=compact&theme=synthwave&hide_border=true&bg_color=0f0f12" height="160" alt="Languages" />
+  <!-- Profile Details (Fast load) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoSam-Code&theme=2077" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoSam-Code&theme=synthwave&hide_border=true&background=0f0f12" alt="Streak" />
+  <!-- Languages & Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaoSam-Code&theme=2077" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaoSam-Code&theme=2077&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
